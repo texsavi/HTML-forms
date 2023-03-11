@@ -1,0 +1,10 @@
+html, body {
+  color: blue;
+  height: 100%;
+  width: 100%;
+}
+button,option{
+  
+  display: flexbox;
+  border-color: #6ffbdf;
+}
